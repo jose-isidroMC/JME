@@ -1,0 +1,11 @@
+MIDlet-6: GuessNumberMidlet, , guessnumbergame.GuessNumberMidlet
+MIDlet-2: VisualMIDlet, , holamidlet.VisualMIDlet
+MIDlet-3: LifeCycleMidlet, , lifecycle.LifeCycleMidlet
+MIDlet-4: TextBoxMidlet, , highlvui.TextBoxMidlet
+MIDlet-5: FormTextfieldMidlet, , formtextfield.FormTextfieldMidlet
+MIDlet-1: HolaMidlet, , holamidlet.HolaMidlet
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MIDlet-Name: jme
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
